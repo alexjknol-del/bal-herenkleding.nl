@@ -598,6 +598,36 @@ def render_partners():
         <h3>HemdVoorHem.nl</h3>
         <p>Specialist in strijkvrije overhemden en aanverwante herenmode, met een ruim aanbod aan merken en heldere maattabellen. Handig bij het vergelijken van pasvormen.</p>
         <a class="out" href="https://www.hemdvoorhem.nl" rel="nofollow noopener" target="_blank">Naar hemdvoorhem.nl</a>
+  
+      <div class="partner">
+        <p class="role">Smartshop</p>
+        <h3>Tatanka</h3>
+        <p>Tatanka is een Nederlandse smartshop met paddo growkits en smartshopproducten, met uitleg per soort en een overzicht van het aanbod.</p>
+        <a class="out" href="https://www.tatanka.nl/nl/thai-magic-mushroom-paddo-grow-kit/" rel="nofollow noopener" target="_blank">Thai magic mushroom growkit</a>
+      </div>
+      <div class="partner">
+        <p class="role">Smartshop</p>
+        <h3>Smartific</h3>
+        <p>Smartific is een Nederlandse smartshop met magic truffels, growkits en smartshopproducten, inclusief productinformatie per artikel.</p>
+        <a class="out" href="https://smartific.nl/dragons-dynamite-magic-truffels/" rel="nofollow noopener" target="_blank">Dragons Dynamite Truffels</a>
+      </div>
+      <div class="partner">
+        <p class="role">Headshop</p>
+        <h3>The Headshop</h3>
+        <p>The Headshop is een Nederlandse headshop met kratom en smartshopproducten, met een uitgebreid overzicht per soort en sterkte.</p>
+        <a class="out" href="https://www.headshop.nl/nl/" rel="nofollow noopener" target="_blank">Headshop</a>
+      </div>
+      <div class="partner">
+        <p class="role">Paddo growkits</p>
+        <h3>Paddo.shop</h3>
+        <p>Paddo.shop is een Nederlandse webshop gespecialiseerd in paddo growkits, met uitleg per kweekset en kweekinstructies.</p>
+        <a class="out" href="https://www.paddo.shop/ecuadorian-paddo-growkit/" rel="nofollow noopener" target="_blank">Ecuadorian paddo</a>
+      </div>
+      <div class="partner">
+        <p class="role">Magic truffels</p>
+        <h3>Magictruffels.shop</h3>
+        <p>Magictruffels.shop is een Nederlandse webshop voor magic truffels, met een overzicht per soort en de werking ervan.</p>
+        <a class="out" href="https://www.magictruffels.shop/atlantis/" rel="nofollow noopener" target="_blank">atlantis truffels</a>
       </div>
     </div>
 

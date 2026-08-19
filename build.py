@@ -110,6 +110,37 @@ def base(title, description, body, active, canonical, og_type="website"):
 
 ARTICLES = [
     {
+        "slug": "basisgarderobe-onderlagen-heren",
+        "cat": "Garderobe",
+        "title": "De onderlaag van een herengarderobe: t-shirts, ondergoed en pasvorm",
+        "dek": "Wat onder het overhemd zit bepaalt de val van de bovenlaag sterker dan de meeste mannen denken.",
+        "date": datetime.date(2026, 8, 19),
+        "read": "5 min",
+        "body": """
+<p>Aan een garderobe wordt meestal van buiten naar binnen gewerkt: eerst het colbert, dan het overhemd, en pas als er iets knelt of doorschijnt komt de onderlaag ter sprake. Terwijl juist die laag bepaalt hoe de rest valt.</p>
+<h2>Waarom de onderlaag meetelt</h2>
+<p>Een t-shirt met een te wijde hals tekent zich af onder een overhemd met een open boord. Een shirt dat te kort is, kruipt boven de broekband uit en veroorzaakt de plooi die vervolgens in het overhemd zichtbaar wordt. Beide problemen zijn niet met een beter overhemd op te lossen.</p>
+<p>Bij donkere overhemden speelt daarnaast de kleur van de onderlaag. Wit schijnt door, en dat blijft ook na wassen zo. Een huidkleurige of grijze variant is onder vrijwel elke bovenkleur de neutralere keuze.</p>
+<h2>Waar op te letten bij een t-shirt</h2>
+<ul>
+  <li>De halsvorm: een diepe V verdwijnt onder een open boord, een ronde hals niet.</li>
+  <li>De lengte: minstens tot over de broekband, ook met de armen omhoog.</li>
+  <li>De naad op de schouder: die hoort op het schouderpunt te vallen, niet erboven of eronder.</li>
+  <li>Het gewicht van het jersey: te dun geeft doorschijnen, te dik geeft volume onder een colbert.</li>
+</ul>
+<p>Een set van twee of drie in dezelfde uitvoering werkt praktischer dan losse aankopen. Ze slijten dan gelijkmatig en de kast blijft overzichtelijk. Het aanbod staat bij <a href="https://www.hemdvoorhem.nl/alan-red-t-shirts" rel="nofollow">Hemd voor Hem</a>.</p>
+<h2>Materiaal</h2>
+<p>Katoen blijft de standaard en is prettig zolang het niet warm wordt. Bij warmte of een lange dag is een vezel die vocht sneller afvoert comfortabeler. Bamboeviscose en modal voelen koeler aan en houden geur minder vast dan gewoon katoen.</p>
+<p>Let bij die materialen wel op de wasvoorschriften. Ze verdragen doorgaans dertig graden en geen droger; wie ze op zestig meewast, houdt na een paar beurten een maat kleiner over. Het aanbod staat op <a href="https://www.hemdvoorhem.nl/bamboe-heren-ondergoed" rel="nofollow">hemdvoorhem.nl</a>.</p>
+<h2>Vervangen op tijd</h2>
+<p>Boorden die uitgerekt blijven, dunne plekken onder de armen en een grijze waas op wit zijn allemaal signalen dat een stuk uit de rotatie kan. Doorgaan tot iets echt kapot is, kost aan uitstraling meer dan de vervanging kost.</p>
+<p>Een praktische aanpak is om twee keer per jaar de hele onderlaag na te lopen en alles wat twijfelachtig is in één keer te vervangen. Dat voorkomt de situatie waarin de helft van de la bruikbaar is en er elke ochtend gezocht moet worden.</p>
+<h2>Sokken en de rest van de laag</h2>
+<p>Sokken vallen onder dezelfde categorie en worden nog vaker vergeten. Een sok die op de kuit afzakt, is niet te verbergen zodra iemand gaat zitten, en dat is precies het moment waarop de sok zichtbaar wordt. Een langere uitvoering met een stevige boord lost dat op.</p>
+<p>Kies daarbij liever een beperkt aantal kleuren in grotere aantallen dan telkens iets anders. Sokken raken kwijt, en een lade met vijf paar in dezelfde uitvoering blijft bruikbaar terwijl een lade met tien verschillende paren binnen een half jaar uit losse exemplaren bestaat.</p>
+""",
+    },
+    {
         "slug": "capsule-garderobe-voor-mannen",
         "cat": "Garderobe",
         "title": "De capsule garderobe voor mannen",

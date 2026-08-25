@@ -643,6 +643,12 @@ def render_partners():
         <a class="out" href="https://smartific.nl/dragons-dynamite-magic-truffels/" rel="nofollow noopener" target="_blank">Dragons Dynamite Truffels</a>
       </div>
       <div class="partner">
+        <p class="role">Herenmode</p>
+        <h3>Mode Expert</h3>
+        <p>Mode Expert is een Nederlandse webshop met herenmode van diverse merken, met een ruim aanbod aan kleding en accessoires.</p>
+        <a class="out" href="https://mode-expert.nl/" rel="nofollow noopener" target="_blank">www.mode-expert.nl</a>
+      </div>
+      <div class="partner">
         <p class="role">Headshop</p>
         <h3>The Headshop</h3>
         <p>The Headshop is een Nederlandse headshop met kratom en smartshopproducten, met een uitgebreid overzicht per soort en sterkte.</p>

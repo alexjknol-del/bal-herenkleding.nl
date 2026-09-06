@@ -110,6 +110,37 @@ def base(title, description, body, active, canonical, og_type="website"):
 
 ARTICLES = [
     {
+        "slug": "herenparfum-navullen-flacon",
+        "cat": "Accessoires",
+        "title": "Herengeur navullen in plaats van telkens een nieuwe flacon kopen",
+        "dek": "Een flacon is grotendeels verpakking. Wat navullen praktisch betekent, en hoe een geur bij de rest van een garderobe past.",
+        "date": datetime.date(2026, 9, 6),
+        "read": "5 min",
+        "body": """
+<p>Aan een garderobe wordt zelden gerekend met wat er niet zichtbaar is. Toch is geur voor de meeste mensen om je heen net zo bepalend als de pasvorm van een colbert, en het is het enige onderdeel dat blijft hangen nadat iemand de kamer uit is.</p>
+<h2>Wat er in een flacon zit en wat niet</h2>
+<p>Bij een gemiddelde flacon eau de parfum gaat een aanzienlijk deel van de prijs naar het glas, de dop, de doos en de distributie. De inhoud zelf bestaat voor het grootste deel uit alcohol, met daarin een percentage geurolie. Dat percentage bepaalt de aanduiding: eau de toilette zit doorgaans rond de tien procent, eau de parfum hoger.</p>
+<p>Navullen draait die verhouding om. De flacon blijft, alleen de inhoud wordt vervangen. Dat scheelt verpakking en het maakt het mogelijk om meerdere geuren naast elkaar te hebben zonder een plank vol halflege flessen.</p>
+<h2>Hoe een navulling in de praktijk gaat</h2>
+<p>Bij een verkooppunt met navulapparatuur wordt de geur ter plekke afgevuld in een lege flacon of in een verstuiver die daar te koop is. De keuze loopt via geurfamilies in plaats van via merknamen, wat betekent dat er geproefd wordt op basis van wat iemand prettig vindt ruiken en niet op basis van de fles. Het aanbod voor heren staat bij <a href="https://www.parfumpointrefill.nl/c/heren-parfum/" rel="noopener" target="_blank">Parfum Point Refill</a>.</p>
+<p>Voor wie twijfelt is een kleine verstuiver van enkele milliliters de verstandigste eerste stap. Een geur ruikt op papier anders dan op de huid, en op de huid van de een anders dan op die van de ander. Pas na een uur of vier is duidelijk wat er overblijft.</p>
+<h2>Geurfamilies en wanneer ze werken</h2>
+<ul>
+  <li>Citrus en aquatisch: licht en fris, geschikt voor overdag en voor warme dagen, maar met een korte houdbaarheid op de huid.</li>
+  <li>Aromatisch en fougere: kruidig, de klassieke richting voor kantoor en voor het hele jaar door.</li>
+  <li>Houtachtig: droger en zwaarder, past bij wol en bij het najaar.</li>
+  <li>Oriëntaals en amberachtig: zoet en warm, sterk aanwezig, doorgaans een keuze voor de avond.</li>
+</ul>
+<p>Een garderobe met veel donkere wol en tweed verdraagt een zwaardere geur dan een garderobe van linnen en katoen. Dat klinkt als een detail, maar het is dezelfde afweging als die tussen een dikke en een dunne stof: de zwaarte hoort bij het seizoen.</p>
+<h2>Doseren en bewaren</h2>
+<p>Twee tot drie verstuivingen is voor vrijwel elke concentratie voldoende. Op de pols en in de hals werkt beter dan op kleding, omdat de huidwarmte de geur laat vrijkomen en stof dat niet doet. Wrijven na het opbrengen breekt de bovenlaag af, waardoor de geur sneller verdwijnt.</p>
+<p>Bewaren gebeurt donker en op kamertemperatuur. Licht en temperatuurwisselingen tasten de samenstelling aan, en dat is precies waarom de badkamer de slechtste plek in huis is. Een la of een gesloten kast houdt een geur jaren goed. Het volledige assortiment en de werkwijze staan op <a href="https://www.parfumpointrefill.nl/" rel="noopener" target="_blank">parfumpointrefill.nl</a>.</p>
+<h2>Een geur per gelegenheid of één vaste</h2>
+<p>Er zijn twee scholen. De ene houdt het bij één geur die na verloop van tijd bij iemand gaat horen. De andere wisselt per seizoen en per gelegenheid. Beide werken, mits het aantal beperkt blijft: drie geuren die passen bij dag, avond en zomer dekken vrijwel alles.</p>
+<p>Wat in beide gevallen misgaat, is de restjes-la. Flacons die nog een bodempje bevatten en nooit meer gebruikt worden, nemen ruimte in en de inhoud verandert na jaren van kleur en geur. Navullen voorkomt dat, omdat er per keer een hoeveelheid gekozen kan worden die daadwerkelijk opraakt.</p>
+"""
+    },
+    {
         "slug": "basisgarderobe-onderlagen-heren",
         "cat": "Garderobe",
         "title": "De onderlaag van een herengarderobe: t-shirts, ondergoed en pasvorm",

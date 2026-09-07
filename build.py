@@ -660,7 +660,7 @@ def render_partners():
         <h3>HemdVoorHem.nl</h3>
         <p>Specialist in strijkvrije overhemden en aanverwante herenmode, met een ruim aanbod aan merken en heldere maattabellen. Handig bij het vergelijken van pasvormen.</p>
         <a class="out" href="https://www.hemdvoorhem.nl" rel="nofollow noopener" target="_blank">Naar hemdvoorhem.nl</a>
-  
+      </div>
       <div class="partner">
         <p class="role">Smartshop</p>
         <h3>Tatanka</h3>
@@ -697,12 +697,30 @@ def render_partners():
         <p>Magictruffels.shop is een Nederlandse webshop voor magic truffels, met een overzicht per soort en de werking ervan.</p>
         <a class="out" href="https://www.magictruffels.shop/atlantis/" rel="nofollow noopener" target="_blank">atlantis truffels</a>
       </div>
+      <div class="partner">
+        <p class="role">Domotica</p>
+        <h3>HAshop</h3>
+        <p>HAshop levert domotica en huisautomatisering, van sensoren en modules tot slimme verlichting, camera's en Home Assistant-hardware.</p>
+        <a class="out" href="https://www.hashop.nl/" rel="nofollow noopener" target="_blank">Domotica</a>
+      </div>
+      <div class="partner">
+        <p class="role">Bedtextiel</p>
+        <h3>Bedshop</h3>
+        <p>Bedshop verkoopt bedtextiel en beddengoed, met kussenslopen in katoen, satijn en flanel in de gangbare maten.</p>
+        <a class="out" href="https://www.bedshop.nl/bedmode/bedtextiel/kussenslopen/" rel="nofollow noopener" target="_blank">Kussenslopen</a>
+      </div>
+      <div class="partner">
+        <p class="role">Klimaattechniek</p>
+        <h3>Koelklima</h3>
+        <p>Koelklima uit Drachten levert en installeert airconditioning, warmtepompen en waterontharders in Noord-Nederland, inclusief onderhoud en reparatie.</p>
+        <a class="out" href="https://koelklima.nl/" rel="nofollow noopener" target="_blank">Klimaattechniek Drachten</a>
+      </div>
     </div>
 
     <p class="partner-note">Interesse in een vermelding of samenwerking? Voorstellen kunnen worden gestuurd naar <a href="mailto:info@bal-herenkleding.nl">info@bal-herenkleding.nl</a>. Partners worden alleen opgenomen wanneer ze aansluiten bij het onderwerp van het platform.</p>
   </div>
 </section>"""
-    return base("Partners", "De partners en uitgelichte merken van Bal Herenkleding: Milez Bracelets en HemdVoorHem.nl.",
+    return base("Partners", "De partners en uitgelichte merken van Bal Herenkleding: webshops en specialisten die aansluiten bij het onderwerp van het platform.",
                 body, "partners", f"{SITE}/partners.html")
 
 

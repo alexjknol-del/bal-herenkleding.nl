@@ -255,7 +255,7 @@ ARTICLES = [
 </ul>
 
 <h2>Strijkvrij of niet</h2>
-<p>Katoen ademt en voelt prettig, maar kreukt. Strijkvrije overhemden combineren het comfort van katoen met een behandeling die kreuk tegengaat. Voor wie strijken liever overslaat, is dat een praktische keuze. Webshops die gespecialiseerd zijn in herenmode, zoals <a href="https://www.hemdvoorhem.nl" rel="nofollow noopener" target="_blank">HemdVoorHem.nl</a>, bieden een ruime selectie strijkvrije modellen met heldere maattabellen per merk. Dat helpt bij het vergelijken van pasvormen voordat er besteld wordt.</p>
+<p>Katoen ademt en voelt prettig, maar kreukt. Strijkvrije overhemden combineren het comfort van katoen met een behandeling die kreuk tegengaat. Voor wie strijken liever overslaat, is dat een praktische keuze. Webshops die gespecialiseerd zijn in herenmode, zoals <a href="https://www.hemdvoorhem.nl" rel="noopener" target="_blank">HemdVoorHem.nl</a>, bieden een ruime selectie strijkvrije modellen met heldere maattabellen per merk. Dat helpt bij het vergelijken van pasvormen voordat er besteld wordt.</p>
 
 <h2>Extra lange mouwen</h2>
 <p>Lange mannen lopen vaak tegen te korte mouwen aan. Sommige merken voeren daarom een mouwlengte 7, met mouwen die ongeveer vijf centimeter langer zijn dan standaard. Ook de totale lengte van het overhemd is dan iets ruimer, zodat het netjes in de broek blijft.</p>
@@ -289,7 +289,7 @@ ARTICLES = [
 </table>
 
 <h2>De juiste maat is de helft van het werk</h2>
-<p>Een armband die te los zit, draait weg en oogt slordig. Een armband die te strak zit, knelt. De ideale pasvorm laat ongeveer een vinger speling tussen band en pols. Polsmaten lopen flink uiteen, dus een armband op maat zit merkbaar beter dan een standaardlengte. Een Nederlandse maker als <a href="https://milezbracelets.nl" rel="nofollow noopener" target="_blank">Milez Bracelets</a> maakt herenarmbanden handgemaakt en voor iedere polsmaat, van smal tot breed, zonder meerprijs voor maatwerk. Dat scheelt het gepuzzel met een band die net niet past.</p>
+<p>Een armband die te los zit, draait weg en oogt slordig. Een armband die te strak zit, knelt. De ideale pasvorm laat ongeveer een vinger speling tussen band en pols. Polsmaten lopen flink uiteen, dus een armband op maat zit merkbaar beter dan een standaardlengte. Een Nederlandse maker als <a href="https://milezbracelets.nl" rel="noopener" target="_blank">Milez Bracelets</a> maakt herenarmbanden handgemaakt en voor iedere polsmaat, van smal tot breed, zonder meerprijs voor maatwerk. Dat scheelt het gepuzzel met een band die net niet past.</p>
 
 <div class="callout"><p>Wie de polsmaat niet kent, wikkelt een stukje touw of een centimeter rond de pols, net onder het polsbeentje, en meet de lengte. Daar komt de gewenste speling bij.</p></div>
 
@@ -402,7 +402,7 @@ ARTICLES = [
 <p>Het horloge is voor veel mannen het belangrijkste accessoire. Een rustig model met een leren of stalen band past bij vrijwel elke gelegenheid. De richtlijn is eenvoudig: stem de toon van de band af op de schoenen en de riem. Een bruine leren band loopt zo netjes mee met bruine schoenen.</p>
 
 <h2>De armband</h2>
-<p>Een armband voegt iets persoonlijks toe zonder dat het hoeft op te vallen. Leer oogt ingetogen, natuursteen brengt kleur. Belangrijk is dat de maat klopt, zodat de band niet wegdraait. Handgemaakte armbanden van een maker als <a href="https://milezbracelets.nl" rel="nofollow noopener" target="_blank">Milez Bracelets</a> worden op polsmaat gemaakt, wat het comfort merkbaar verbetert ten opzichte van een standaardlengte. Wie metaal in de armband afstemt op het horloge, houdt het geheel rustig.</p>
+<p>Een armband voegt iets persoonlijks toe zonder dat het hoeft op te vallen. Leer oogt ingetogen, natuursteen brengt kleur. Belangrijk is dat de maat klopt, zodat de band niet wegdraait. Handgemaakte armbanden van een maker als <a href="https://milezbracelets.nl" rel="noopener" target="_blank">Milez Bracelets</a> worden op polsmaat gemaakt, wat het comfort merkbaar verbetert ten opzichte van een standaardlengte. Wie metaal in de armband afstemt op het horloge, houdt het geheel rustig.</p>
 
 <div class="callout"><p>Minder is vaak meer. Een horloge en een enkele armband zien er verzorgder uit dan een pols vol losse stuks.</p></div>
 
@@ -511,13 +511,13 @@ def render_home():
         <p class="eyebrow">Accessoires</p>
         <h3>Handgemaakte herenarmbanden</h3>
         <p>Milez Bracelets maakt leren en natuurstenen armbanden voor heren, handgemaakt in Nederland en op iedere polsmaat. Een ingetogen manier om een outfit persoonlijk te maken.</p>
-        <a class="out" href="https://milezbracelets.nl" rel="nofollow noopener" target="_blank">Bekijk Milez Bracelets</a>
+        <a class="out" href="https://milezbracelets.nl" rel="noopener" target="_blank">Bekijk Milez Bracelets</a>
       </div>
       <div class="feat-card">
         <p class="eyebrow">Overhemden</p>
         <h3>Strijkvrije herenmode</h3>
         <p>HemdVoorHem.nl is gespecialiseerd in strijkvrije overhemden en aanverwante herenmode, met heldere maattabellen per merk. Handig bij het vergelijken van pasvormen.</p>
-        <a class="out" href="https://www.hemdvoorhem.nl" rel="nofollow noopener" target="_blank">Bekijk HemdVoorHem.nl</a>
+        <a class="out" href="https://www.hemdvoorhem.nl" rel="noopener" target="_blank">Bekijk HemdVoorHem.nl</a>
       </div>
     </div>
   </div>
@@ -653,67 +653,73 @@ def render_partners():
         <p class="role">Herenarmbanden</p>
         <h3>Milez Bracelets</h3>
         <p>Handgemaakte leren en natuurstenen armbanden voor heren, gemaakt in Nederland en op iedere polsmaat. Een ingetogen accessoire dat past bij vrijwel elke outfit.</p>
-        <a class="out" href="https://milezbracelets.nl" rel="nofollow noopener" target="_blank">Naar milezbracelets.nl</a>
+        <a class="out" href="https://milezbracelets.nl" rel="noopener" target="_blank">Naar milezbracelets.nl</a>
       </div>
       <div class="partner">
         <p class="role">Herenmode en overhemden</p>
         <h3>HemdVoorHem.nl</h3>
         <p>Specialist in strijkvrije overhemden en aanverwante herenmode, met een ruim aanbod aan merken en heldere maattabellen. Handig bij het vergelijken van pasvormen.</p>
-        <a class="out" href="https://www.hemdvoorhem.nl" rel="nofollow noopener" target="_blank">Naar hemdvoorhem.nl</a>
+        <a class="out" href="https://www.hemdvoorhem.nl" rel="noopener" target="_blank">Naar hemdvoorhem.nl</a>
       </div>
       <div class="partner">
         <p class="role">Smartshop</p>
         <h3>Tatanka</h3>
         <p>Tatanka is een Nederlandse smartshop met paddo growkits en smartshopproducten, met uitleg per soort en een overzicht van het aanbod.</p>
-        <a class="out" href="https://www.tatanka.nl/nl/thai-magic-mushroom-paddo-grow-kit/" rel="nofollow noopener" target="_blank">Thai magic mushroom growkit</a>
+        <a class="out" href="https://www.tatanka.nl/nl/thai-magic-mushroom-paddo-grow-kit/" rel="noopener" target="_blank">Thai magic mushroom growkit</a>
       </div>
       <div class="partner">
         <p class="role">Smartshop</p>
         <h3>Smartific</h3>
         <p>Smartific is een Nederlandse smartshop met magic truffels, growkits en smartshopproducten, inclusief productinformatie per artikel.</p>
-        <a class="out" href="https://smartific.nl/dragons-dynamite-magic-truffels/" rel="nofollow noopener" target="_blank">Dragons Dynamite Truffels</a>
+        <a class="out" href="https://smartific.nl/dragons-dynamite-magic-truffels/" rel="noopener" target="_blank">Dragons Dynamite Truffels</a>
       </div>
       <div class="partner">
         <p class="role">Herenmode</p>
         <h3>Mode Expert</h3>
         <p>Mode Expert is een Nederlandse webshop met herenmode van diverse merken, met een ruim aanbod aan kleding en accessoires.</p>
-        <a class="out" href="https://mode-expert.nl/" rel="nofollow noopener" target="_blank">www.mode-expert.nl</a>
+        <a class="out" href="https://mode-expert.nl/" rel="noopener" target="_blank">www.mode-expert.nl</a>
       </div>
       <div class="partner">
         <p class="role">Headshop</p>
         <h3>The Headshop</h3>
         <p>The Headshop is een Nederlandse headshop met kratom en smartshopproducten, met een uitgebreid overzicht per soort en sterkte.</p>
-        <a class="out" href="https://www.headshop.nl/nl/" rel="nofollow noopener" target="_blank">Headshop</a>
+        <a class="out" href="https://www.headshop.nl/nl/" rel="noopener" target="_blank">Headshop</a>
       </div>
       <div class="partner">
         <p class="role">Paddo growkits</p>
         <h3>Paddo.shop</h3>
         <p>Paddo.shop is een Nederlandse webshop gespecialiseerd in paddo growkits, met uitleg per kweekset en kweekinstructies.</p>
-        <a class="out" href="https://www.paddo.shop/ecuadorian-paddo-growkit/" rel="nofollow noopener" target="_blank">Ecuadorian paddo</a>
+        <a class="out" href="https://www.paddo.shop/ecuadorian-paddo-growkit/" rel="noopener" target="_blank">Ecuadorian paddo</a>
       </div>
       <div class="partner">
         <p class="role">Magic truffels</p>
         <h3>Magictruffels.shop</h3>
         <p>Magictruffels.shop is een Nederlandse webshop voor magic truffels, met een overzicht per soort en de werking ervan.</p>
-        <a class="out" href="https://www.magictruffels.shop/atlantis/" rel="nofollow noopener" target="_blank">atlantis truffels</a>
+        <a class="out" href="https://www.magictruffels.shop/atlantis/" rel="noopener" target="_blank">atlantis truffels</a>
       </div>
       <div class="partner">
         <p class="role">Domotica</p>
         <h3>HAshop</h3>
         <p>HAshop levert domotica en huisautomatisering, van sensoren en modules tot slimme verlichting, camera's en Home Assistant-hardware.</p>
-        <a class="out" href="https://www.hashop.nl/" rel="nofollow noopener" target="_blank">Domotica</a>
+        <a class="out" href="https://www.hashop.nl/" rel="noopener" target="_blank">Domotica</a>
       </div>
       <div class="partner">
         <p class="role">Bedtextiel</p>
         <h3>Bedshop</h3>
         <p>Bedshop verkoopt bedtextiel en beddengoed, met kussenslopen in katoen, satijn en flanel in de gangbare maten.</p>
-        <a class="out" href="https://www.bedshop.nl/bedmode/bedtextiel/kussenslopen/" rel="nofollow noopener" target="_blank">Kussenslopen</a>
+        <a class="out" href="https://www.bedshop.nl/bedmode/bedtextiel/kussenslopen/" rel="noopener" target="_blank">Kussenslopen</a>
       </div>
       <div class="partner">
         <p class="role">Klimaattechniek</p>
         <h3>Koelklima</h3>
         <p>Koelklima uit Drachten levert en installeert airconditioning, warmtepompen en waterontharders in Noord-Nederland, inclusief onderhoud en reparatie.</p>
-        <a class="out" href="https://koelklima.nl/" rel="nofollow noopener" target="_blank">Klimaattechniek Drachten</a>
+        <a class="out" href="https://koelklima.nl/" rel="noopener" target="_blank">Klimaattechniek Drachten</a>
+      </div>
+      <div class="partner">
+        <p class="role">Bloemist</p>
+        <h3>Blossom Bloemisterij</h3>
+        <p>Blossom Bloemisterij aan de Turfmarkt in Den Haag maakt boeketten, bruidswerk en rouwstukken en bezorgt in Den Haag en omgeving, ook op een uitvaartlocatie.</p>
+        <a class="out" href="https://blossombloemisterij.nl/rouwbloemen/" rel="noopener" target="_blank">Rouwbloemen bezorgen Den Haag</a>
       </div>
     </div>
 

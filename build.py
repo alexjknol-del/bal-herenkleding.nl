@@ -110,6 +110,26 @@ def base(title, description, body, active, canonical, og_type="website"):
 
 ARTICLES = [
     {
+        "slug": "meer-volume-in-fijn-haar-bij-mannen",
+        "cat": "Stijl",
+        "title": 'Meer volume in fijn haar bij mannen: zo werkt volumepoeder',
+        "dek": 'Fijn of slap haar valt snel plat. Volumepoeder geeft grip en textuur zonder vettige glans. Zo breng je het aan en waar je op let.',
+        "date": datetime.date(2026, 9, 22),
+        "read": "4 min",
+        "body": """
+<p>Een goed zittend colbert of een strak gestreken overhemd verliest veel van zijn effect als het kapsel halverwege de dag plat ligt. Veel mannen met fijn of slap haar kennen het probleem: 's ochtends staat het kapsel nog goed, maar halverwege de dag ligt alles plat. Wax en gel helpen maar ten dele, omdat ze het haar juist zwaarder maken. Volumepoeder werkt anders en is daardoor vaak een betere oplossing voor dit haartype.</p>
+<h2>Wat volumepoeder doet</h2>
+<p>Volumepoeder is een licht, droog poeder dat bij de haarwortels wordt aangebracht. Het geeft het haar grip, zodat haren minder langs elkaar glijden en het kapsel meer body krijgt. Het resultaat is mat en natuurlijk, zonder de glans of het vettige gevoel van een pasta of gel.</p>
+<h2>Zo breng je het aan</h2>
+<p>Begin met droog haar. Strooi een kleine hoeveelheid poeder bij de haarwortels, vooral bovenop het hoofd. Verdeel het met de vingertoppen en masseer het licht in. Breng daarna het haar in model met de vingers. Begin met weinig en voeg pas meer toe als het nodig is: te veel poeder maakt het haar stroef en dof.</p>
+<h2>Voor welke kapsels</h2>
+<p>Volumepoeder werkt goed bij korte tot halflange kapsels met textuur, zoals een crop, een losse quiff of een messy look. Bij een strakke zijscheiding met veel glans past het minder. Het poeder is ook te combineren met een lichte klei of spray als er meer houvast nodig is.</p>
+<h2>Welk product</h2>
+<p>De verschillen tussen merken zitten in de sterkte van de grip en hoe makkelijk het poeder zich laat verdelen. <a href="https://www.kappersleverancier.nl/collections/volume-poeder" rel="noopener" target="_blank">Volume poeder mannen</a> van Nishman of Level 3 is bedoeld voor meer textuur, grip en volume bij fijn of slap haar, met een matte afwerking zonder vettige resten.</p>
+<p>Was het haar aan het eind van de dag of de volgende ochtend gewoon met shampoo. Volumepoeder laat zich makkelijk uitspoelen en hoopt zich niet op in het haar, mits het niet dagenlang blijft zitten.</p>
+""",
+    },
+    {
         "slug": "herenparfum-navullen-flacon",
         "cat": "Accessoires",
         "title": "Herengeur navullen in plaats van telkens een nieuwe flacon kopen",

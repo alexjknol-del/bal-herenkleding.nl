@@ -110,6 +110,27 @@ def base(title, description, body, active, canonical, og_type="website"):
 
 ARTICLES = [
     {
+        "slug": "bloemen-meenemen-als-gast",
+        "cat": "Stijl",
+        "title": 'Bloemen meenemen als gast: wat werkt en wat niet',
+        "dek": 'Een uitnodiging voor een etentje of een feest vraagt om een attentie. Bloemen blijven de klassieker, mits de keuze klopt.',
+        "date": datetime.date(2026, 7, 30),
+        "read": "4 min",
+        "body": """
+<p>Een verzorgde verschijning houdt niet op bij het pak of het overhemd. Wie ergens te gast is, wordt ook beoordeeld op wat er bij binnenkomst wordt overhandigd. Een fles wijn is veilig, maar bloemen maken vaak meer indruk. Toch gaat het met bloemen regelmatig mis.</p>
+<h2>Het probleem met een losse bos</h2>
+<p>Een bos verse bloemen betekent werk voor de gastheer of gastvrouw. Midden in het koken moet er een vaas gezocht worden, de stelen moeten worden afgesneden en het papier moet weg. Goed bedoeld, maar op het verkeerde moment.</p>
+<h2>Een boeket dat klaar is</h2>
+<p>Een gebonden boeket dat direct in een vaas kan, scheelt die drukte. Nog praktischer is een zijden boeket of kunstboeket. Dat vraagt geen water, verwelkt niet en staat na een maand nog net zo op tafel als op de avond zelf. Een goede kwaliteit is van dichtbij nauwelijks van echt te onderscheiden.</p>
+<h2>Kleur en formaat</h2>
+<p>Wie het interieur van de gastheer niet kent, kiest voor rustige kleuren: wit, crème of zacht groen. Een middelgroot boeket past op vrijwel elke tafel of kast. Een groot, uitbundig boeket werkt bij een feest, maar voor een etentje met een paar mensen is ingetogen beter.</p>
+<h2>Zo wordt het overhandigd</h2>
+<p>Geef de bloemen bij binnenkomst, niet halverwege de avond. Zonder plastic of met een eenvoudig papier oogt beter dan een folie met strik. En net als bij kleding geldt: liever één goed stuk dan veel van iets middelmatigs.</p>
+<h2>Waar te kiezen</h2>
+<p>Zijden boeketten in verschillende stijlen staan op <a href="https://bloomzy.nl/collectie/zijden-boeketten" rel="noopener" target="_blank">https://bloomzy.nl/collectie/zijden-boeketten</a>. <a href="https://bloomzy.nl/" rel="noopener" target="_blank">Bloomzy</a> heeft daarnaast kunstboeketten en vazen, zodat het cadeau in één keer compleet is.</p>
+""",
+    },
+    {
         "slug": "meer-volume-in-fijn-haar-bij-mannen",
         "cat": "Stijl",
         "title": 'Meer volume in fijn haar bij mannen: zo werkt volumepoeder',
